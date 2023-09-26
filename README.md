@@ -1,16 +1,16 @@
-# flutter_chat
+# One_group_chat
 
-A new Flutter project.
+The beginning of my introduction to Firebase.
 
-## Getting Started
+## Main packages
 
-This project is a starting point for a Flutter application.
+cloud_firestore
+firebase_auth
+firebase_storage 
+firebase_messaging 
+firebase_core
+image_picker
 
-A few resources to get you started if this is your first Flutter project:
+## View
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Запись экрана 2023-09-26 в 14 04 29](https://github.com/Melec354/One_group_chat/assets/34657403/9c54f643-fe24-4c33-8232-6d3615b2a75c)
