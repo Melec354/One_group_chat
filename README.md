@@ -4,11 +4,11 @@ The beginning of my introduction to Firebase.
 
 ## Main packages
 
-cloud_firestore
-firebase_auth
-firebase_storage 
-firebase_messaging 
-firebase_core
+cloud_firestore  
+firebase_auth  
+firebase_storage  
+firebase_messaging  
+firebase_core  
 image_picker
 
 ## View
